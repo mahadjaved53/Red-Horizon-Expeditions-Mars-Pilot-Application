@@ -13,6 +13,7 @@
         <nav aria-label="Main navigation">
             <a class="active" href="index.php">Home</a>
             <a href="apply.php">Pilot Application</a>
+            <a href="departures.php">Departures</a>
         </nav>
     </header>
 
